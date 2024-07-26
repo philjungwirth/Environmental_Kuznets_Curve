@@ -113,4 +113,3 @@ pooled_model_KOF <- lm(fm_KOF, data = transformed_data_KOF)
 # Print cointegrating vectors
 summary(pooled_model_KOF)
 
-
